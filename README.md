@@ -25,7 +25,7 @@ public class Exercise {
 }
 ```
 
-### TestResilt.java
+### TestResult.java
 ```java
 package test;
 
